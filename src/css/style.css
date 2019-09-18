@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    background-color: yellow;
+}
+
+.box {
+    background-color:blue;
+    display: inline-block;
+    height: 300px;
+    width: 300px;
+    overflow: hidden;
+}
